@@ -1,5 +1,3 @@
-Certainly! It sounds like you've had an interesting experience during your PwC Power BI virtual internship. Let's create a README file for your GitHub repository to showcase your work. Here's how you can structure it:
-
 ## PWC Virtual Internship Power BI
 
 ### Background
